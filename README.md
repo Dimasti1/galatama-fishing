@@ -43,22 +43,6 @@ npm run preview
 ## Link Deploy
 https://galatama-fishing-mht3.vercel.app/
 
-## Cara Kerja
-
-* Session berlangsung selama **60 detik**.
-* Terdapat 5 pemain virtual: **Bot 1–5**.
-* Bot mendapatkan ikan secara acak setiap **3–6 detik**.
-* Berat ikan berada pada rentang **0.5–10.0 kg**.
-* Leaderboard diperbarui setiap kali terjadi tangkapan.
-* Urutan ranking berdasarkan:
-
-  1. Total berat terbesar
-  2. Jumlah tangkapan terbanyak
-  3. Nama pemain secara alfabetis
-* Tangkapan terberat ditampilkan secara terpisah.
-* 10 tangkapan terbaru ditampilkan pada bagian Recent Catches.
-* Tangkapan di atas **7 kg** mendapatkan visual feedback khusus.
-
 ## Keputusan Desain
 
 ### 1. Recursive `setTimeout`
