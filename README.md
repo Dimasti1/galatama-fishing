@@ -1,4 +1,4 @@
-# Mini Fishing Leaderboard Simulator — Galatama
+# Mini Fishing Leaderboard Simulator - Galatama
 
 Mini web application untuk mensimulasikan leaderboard kompetisi memancing **Galatama** secara real-time.
 
