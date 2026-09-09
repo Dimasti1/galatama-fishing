@@ -40,6 +40,9 @@ Untuk menjalankan hasil build:
 npm run preview
 ```
 
+## Link Deploy
+https://galatama-fishing-mht3.vercel.app/
+
 ## Cara Kerja
 
 * Session berlangsung selama **60 detik**.
