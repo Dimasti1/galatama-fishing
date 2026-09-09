@@ -113,33 +113,6 @@ Informasi yang paling penting tetap terlihat pada layar kecil:
 
 Session menggunakan `sessionId` dan pengecekan status untuk memastikan callback asynchronous yang sudah terjadwal tidak menambahkan tangkapan setelah session berakhir atau di-reset.
 
-## Struktur Project
-
-```text
-src/
-├── components/
-│   ├── CatchNotification.tsx
-│   ├── Header.tsx
-│   ├── HeaviestCatch.tsx
-│   ├── Leaderboard.tsx
-│   ├── RecentCatches.tsx
-│   ├── SessionControls.tsx
-│   └── SessionInfo.tsx
-├── data/
-│   └── players.ts
-├── hooks/
-│   └── useFishingSession.ts
-├── types/
-│   └── game.ts
-├── utils/
-│   ├── catchSimulator.ts
-│   ├── formatTime.ts
-│   └── leaderboard.ts
-├── App.tsx
-├── index.css
-└── main.tsx
-```
-
 ## Bagian yang Masih Bisa Diperbaiki
 
 Beberapa hal masih dapat dikembangkan jika aplikasi ini dilanjutkan:
